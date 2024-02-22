@@ -23,5 +23,9 @@
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.5",
     "vite": "^5.1.4"
-  }
+  },
+  "description": "space id = si5tixx69g7i token = 3qYL1YafOot1HhqeSoAEB-I7oNOTNSxpP69819qYr2g",
+  "main": "vite.config.js",
+  "author": "",
+  "license": "ISC"
 }

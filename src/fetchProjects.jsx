@@ -4,9 +4,8 @@ import { createClient } from 'contentful';
 const client =  createClient({
    space: 'si5tixx69g7i',
    environment: 'master',
-   accessToken: import.meta.env.VITE_API_KEY,
+  accessToken: import.meta.env.VITE_API_KEY,
 });
-
 
 export const useFetchProjects = () => {
   const [loading, setLoading] = useState(true);
@@ -34,3 +33,5 @@ export const useFetchProjects = () => {
   }, []);
   return { loading, projects };
 };
+
+
