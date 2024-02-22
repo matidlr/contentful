@@ -7,12 +7,7 @@ export default function Hero() {
             <div className="hero-title">
               <h1>Contenful CMS</h1>
               <p>
-              Since December 2022, the federal watchdog has been probing allegations
-               that Musk ordered employees to give a group of outside writers “full 
-               access to everything,” prompting concerns that the company was out of 
-               compliance with a settlement that puts tight controls on users’ data. 
-               Musk gave directives that ran afoul of the order, but veteran Twitter 
-               employees intervened and prevented the writers
+              This is all the projects that i have been doing the las months. I will continue learning and adding new projects all the time, becouse i have a pasion for learning and programming. I hope you like my projects.
               </p>
             </div>
             <div className="img-container">
